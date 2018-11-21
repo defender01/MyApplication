@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         loginButton.setOnClickListener(this);
         loginGoogleButton.setOnClickListener(this);
         loginFacebookButton.setOnClickListener(this);
+        
         signinButton.setOnClickListener(this);
     }
 
